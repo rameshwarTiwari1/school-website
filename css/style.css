@@ -832,8 +832,8 @@ nav ul.show{
 
 
 
-
-@media (max-width: 520px) {
+/****************************for phone device****************************************/
+@media (max-width: 320px) {
   footer::before {
     top: 145px;
   }
